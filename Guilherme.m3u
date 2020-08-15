@@ -1,0 +1,5 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://logos.flamingtext.com/Name-Logos/Guilherme-design-sketch-name.png" pltv-name="Guilherme" pltv-description="Lista do Guilherme Lindo" pltv-cover="https://logos.flamingtext.com/Name-Logos/Guilherme-design-sketch-name.png" pltv-author="Guilherme"
+
+#EXTINF:-1 tvg-logo="https://lancamentostorrent.com/imagens/power-project-power-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Ação",  Power
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:7f94326c336d1dbc8d83cbf57a6876ee3d5e5afd&dn
